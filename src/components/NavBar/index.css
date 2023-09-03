@@ -1,0 +1,12 @@
+/* Write your code here. */
+.nav-cont {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+}
+.head {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
